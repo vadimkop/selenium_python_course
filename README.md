@@ -1,1 +1,1 @@
-# selenium_python_course
+Web tests (Python/Selenium/Pytest) + Logger
